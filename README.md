@@ -1,6 +1,5 @@
 # PeshawarToDo
 -----------------------------------------------------------------------------------------------------
-
 ## Uni Road
 ### Food
 - Chief Burger [Burger (Chief Special), Pixxa (4 seasons), Stake (american Steak), Monte Carlo] - Fast Food
@@ -71,7 +70,8 @@
 - Peshawar Model School for Girls
 - Frontier Model School for Boys [Yousuf Karkhano]
 - Frontier Model School for Girls
-
+- St. Mary's High School
+- Army Public School & College
 
 -----------------------------------------------------------------------------------------------------
 
