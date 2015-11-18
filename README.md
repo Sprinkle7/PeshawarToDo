@@ -9,6 +9,11 @@
 - Jalil Kabab []
 - Cafe De-Milano [Abdara Road]
 
+### Tech
+- Spinzer IT Plaza [TP/Link Routers (official dealer)]
+- Gul Haji Plaza [Used and Refurb Laptops]
+- POP [opposite Gul Haji][Authorized dealers of HP, DELL & Apple Laptops]
+
 ## Saddar (Cantt)
 ### Food
 - Shirax [Buffet]
@@ -32,6 +37,18 @@
 - Gol Gappy [Imperial Shoes tower/100Rs, opposite Imambargah(sits after Maghrib- 150RS)]
 - Sub Rang [pan, cigarette, Lemon Soda]
 - Soup [andy wala/50RS] :D
+
+### Tech
+- Bilour Plaza [Mobile Phones Shop]
+- Muslim market [Used Mobiles, Chor Bazzar] :P
+- Times Mall [Accessories]
+- Rose Electronics [electronic equip. like ICs & DYI]
+- Qamar Electronics [electronic equip. like ICs & DYI]
+- Calculator House [Branded Watches, Calculators]
+- Falak Sair Plaza [Mobile Phones Warranty Claim Office MZ, Q-Mobiles]
+- FUJI FILM [Photo dev. (original franchise)]
+- Ufone Main Franchise [The Mall]
+
 
 ## City
 ### Food
