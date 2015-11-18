@@ -58,6 +58,19 @@
 - Fish [Food street, ghanta ghar]
 - BBQ [Namak Mandi]
 
+
+## Warsak Road
+### Food
+- Arabian Chick'n [Kababyan][Burger, Pizza, etc]
+- Cake o Clock [Kababyan][Bakers]
+### Schools
+- Peshawar Model School Boys 2 [Yousuf Karkhano]
+- Peshawar Model School Boys 1 [Kababyan]
+- Peshawar Model School for Girls
+- Frontier Model School for Boys [Yousuf Karkhano]
+- Frontier Model School for Girls
+
+
 -----------------------------------------------------------------------------------------------------
 
 
