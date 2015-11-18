@@ -8,7 +8,8 @@
 - Shinwari [Tehkal][Chawal+Da Khar Ghwakha]
 - Jalil Kabab []
 - Cafe De-Milano [Abdara Road]
-
+### Events
+- (Gul e Dawoodi) Exhibition at ICP
 ## Saddar (Cantt)
 ### Food
 - Shirax [Buffet]
