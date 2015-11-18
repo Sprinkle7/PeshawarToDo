@@ -61,8 +61,9 @@
 
 ## Warsak Road
 ### Food
-- Arabian Chick'n [Kababyan][Burger, Pizza, etc]
+- Arabian Chick'n [Kababyan][Burger, Pizza, etc][Fast Food]
 - Cake o Clock [Kababyan][Bakers]
+- Italian [Pizza etc.][Fast Food]
 
 ### Schools
 - Peshawar Model School Boys 2 [Yousuf Karkhano]
