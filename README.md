@@ -5,7 +5,7 @@
 - Chief Burger [Burger (Chief Special), Pixxa (4 seasons), Stake (american Steak), Monte Carlo] - Fast Food
 - Shirax [ **Pending** , BarBQ)]
 - Shinwari [Tehkal][Chawal+Da Khar Ghwakha]
-- Jalil Kabab []
+- Jalil Kabab [Phase 3 Chawak]
 - Cafe De-Milano [Abdara Road]
 
 ### Tech
