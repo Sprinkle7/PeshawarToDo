@@ -2,6 +2,7 @@
 -----------------------------------------------------------------------------------------------------------
 ## Events
 - TechArt [This Saturday][Peshawar Museum]
+- TheLoop [Tomorrow][UOP]
 
 
 ## Uni Road
@@ -12,11 +13,14 @@
 - Jalil Kabab [Phase 3 Chawak]
 - Cafe De-Milano [Abdara Road]
 - Silver Dragon [Arbab Road] [Fast Food, Soup, Chineese]
+- Jan Deli [Burgers, Pasta, Pizza][University Town]
 
 ### Tech
 - Spinzer IT Plaza [TP/Link Routers (official dealer)]
 - Gul Haji Plaza [Used and Refurb Laptops]
 - POP [opposite Gul Haji][Authorized dealers of HP, DELL & Apple Laptops]
+- TheNerdCamp [Place to Learn,Teach,Code and Enjoy][Office#412,Sheikh Yaseen Tower, Arbab Road Stop, University Road]
+- SweetPixelStudios [Indie Game Development Studios][Office F-5, JK Tower, Arbab Road Stop, University Road]
 
 ## Saddar (Cantt)
 ### Food
