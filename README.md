@@ -1,5 +1,8 @@
 # PeshawarToDo
------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+## Events
+TechArt [This Saturday][Peshawar Museum]
+-----------------------------------------------------------------------------------------------------------
 ## Uni Road
 ### Food
 - Chief Burger [Burger (Chief Special), Pixxa (4 seasons), Stake (american Steak), Monte Carlo] - Fast Food
@@ -8,7 +11,6 @@
 - Jalil Kabab [Phase 3 Chawak]
 - Cafe De-Milano [Abdara Road]
 - Silver Dragon [Arbab Road] [Fast Food, Soup, Chineese]
-- Shirax RonaaQ [Buffet Saddar]
 
 ### Tech
 - Spinzer IT Plaza [TP/Link Routers (official dealer)]
@@ -17,7 +19,7 @@
 
 ## Saddar (Cantt)
 ### Food
-- Shirax [Buffet]
+- Shirax RonaaQ [Buffet]
 - Pehelawn Cholay [Chowk Fuwara][30Rs]
 - Doodh Jalabi [Chowk Fuwara][50Rs]
 - Halwa Puri [15Rs/Puri]
