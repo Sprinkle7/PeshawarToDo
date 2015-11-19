@@ -7,6 +7,8 @@
 - Shinwari [Tehkal][Chawal+Da Khar Ghwakha]
 - Jalil Kabab [Phase 3 Chawak]
 - Cafe De-Milano [Abdara Road]
+- Silver Dragon [Arbab Road] [Fast Food, Soup, Chineese]
+- Shirax RonaaQ [Buffet Saddar]
 
 ### Tech
 - Spinzer IT Plaza [TP/Link Routers (official dealer)]
@@ -47,7 +49,8 @@
 - Falak Sair Plaza [Mobile Phones Warranty Claim Office MZ, Q-Mobiles]
 - FUJI FILM [Photo dev. (original franchise)]
 - Ufone Main Franchise [The Mall]
-
+- Ufone Main Franchise [Arbab Road]
+- Telenor Main Franchise [JehanGir Abad]
 
 ## City
 ### Food
