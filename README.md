@@ -101,7 +101,11 @@
 - 
 
 ## Word of Advice
-Dont bow down to pick money from roadsides or anywhere. [ha ha ha; just kidding] ;)
+Dont bow down to pick money from roadsides or anywhere.
+Dont wear pent shirt
+Wear Burqa
+Vegeterians not welcomed
+[ha ha ha; just kidding] ;)
 -----------------------------------------------------------------------------------------------------
 
 
