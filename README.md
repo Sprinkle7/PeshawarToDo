@@ -1,8 +1,8 @@
 # PeshawarToDo
 -----------------------------------------------------------------------------------------------------------
 ## Events
-- TechArt [This Saturday][Peshawar Museum]
-- TheLoop [Tomorrow][UOP]
+- TechArt [Finished]
+- TheLoop [01 December]
 
 
 ## Uni Road
