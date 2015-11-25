@@ -98,7 +98,10 @@
 ## Warsak Road
 ### Schools
 - Army Public School & College [Lit a candle & pray for victims]
+- 
 
+## Word of Advice
+Dont bow down to pick money from roadsides or anywhere. [ha ha ha; just kidding] ;)
 -----------------------------------------------------------------------------------------------------
 
 
