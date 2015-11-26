@@ -102,9 +102,10 @@
 ## Word of Advice
 - Dont bow down to pick money from roadsides or anywhere.
 - Dont wear pent shirt
-- Wear Burqa
-- Vegeterians not welcomed
-**ha ha ha; just kidding] ;) **
------------------------------------------------------------------------------------------------------
+- Wear Burqa is must
+- No word like Vegeterian
+- Respect Naswar
+- They mostly dont understand business & are illiterate
+- **ha ha ha, Please raise your standard of thinking or visit us we will do it for you ;)**
 
-
+--------------------------------------------------------------------------------------------------
