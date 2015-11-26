@@ -1,7 +1,6 @@
 # PeshawarToDo
 -----------------------------------------------------------------------------------------------------------
 ## Events
-- TechArt [Finished]
 - TheLoop [01 December]
 
 ## Places outside Peshawar
@@ -11,11 +10,11 @@
 ## Uni Road
 ### Places
 - Shama Chowk [candel square] 
-- Ismalia College 
+- Islamia College 
 
 ### Food
 - **Chief Burger** [Burger][walking distance from tehkal to avon]
-- Shirax [Lunch-Dinner][walking distance from tehkal to chief]
+- Shiraz [Lunch-Dinner][walking distance from tehkal to chief]
 - **Shinwari** [Dinner][except tuesday, Wednesday & Friday][walking distance from tehkal to chief]
 - Jalil Kabab [Chapli Kehbab] [not possible on walk][walking distance from tehkal to chief]
 - Silver Dragon [Soup][walking distance from tehkal to chief]
@@ -25,8 +24,8 @@
 - Spinzer IT Plaza [TP/Link Routers (official dealer)]
 - Gul Haji Plaza [Used and Refurb Laptops]
 - POP [opposite Gul Haji][Authorized dealers of HP, DELL & Apple Laptops]
-- TheNerdCamp [Place to Learn,Teach,Code and Enjoy][Office#412,Sheikh Yaseen Tower, Arbab Road Stop, University Road]
-- SweetPixelStudios [Indie Game Development Studios][Office F-5, JK Tower, Arbab Road Stop, University Road]
+- The Nerd Camp [Place to Learn,Teach,Code and Enjoy][Office#412,Sheikh Yaseen Tower, Arbab Road Stop, University Road]
+- Sweet Pixel Studios [Indie Game Development Studios][Office F-5, JK Tower, Arbab Road Stop, University Road]
 
 ## Saddar (Cantt)
 ### Places
@@ -76,6 +75,7 @@
 ### Places
 - Choki Yad Gar
 - Ghanta Ghar
+- Gol Ghathri [walking distance from chowki-yadgar]
 - Qila Bala hisar
 - Sethi House
 - Meena Bazar
@@ -100,11 +100,11 @@
 - Army Public School & College [Lit a candle & pray for victims]
 
 ## Word of Advice
-Dont bow down to pick money from roadsides or anywhere.
-Dont wear pent shirt
-Wear Burqa
-Vegeterians not welcomed
-[ha ha ha; just kidding] ;)
+- Dont bow down to pick money from roadsides or anywhere.
+- Dont wear pent shirt
+- Wear Burqa
+- Vegeterians not welcomed
+**ha ha ha; just kidding] ;) **
 -----------------------------------------------------------------------------------------------------
 
 
