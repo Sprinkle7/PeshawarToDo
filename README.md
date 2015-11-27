@@ -105,6 +105,7 @@
 - Wear Burqa is must
 - No word like Vegeterian
 - Respect Naswar
+- Be aware of Pickpockets
 - They mostly dont understand business & are illiterate
 - **ha ha ha, Please raise your standard of thinking or visit us we will do it for you ;)**
 
