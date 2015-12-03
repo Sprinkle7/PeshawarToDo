@@ -100,6 +100,8 @@
 ### Food
 - Arabian Chick'n [Kababyan][Burger, Pizza, etc]
 - Cake o Clock [Kababyan][Bakers]
+
+
 ### Schools
 - Peshawar Model School Boys 2 [Yousuf Karkhano]
 - Peshawar Model School Boys 1 [Kababyan]
