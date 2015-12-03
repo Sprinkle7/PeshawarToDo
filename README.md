@@ -96,7 +96,16 @@
 
 
 ## Warsak Road
+
+### Food
+- Arabian Chick'n [Kababyan][Burger, Pizza, etc]
+- Cake o Clock [Kababyan][Bakers]
 ### Schools
+- Peshawar Model School Boys 2 [Yousuf Karkhano]
+- Peshawar Model School Boys 1 [Kababyan]
+- Peshawar Model School for Girls
+- Frontier Model School for Boys [Yousuf Karkhano]
+- Frontier Model School for Girls
 - Army Public School & College [Lit a candle & pray for victims]
 
 ## Word of Advice
