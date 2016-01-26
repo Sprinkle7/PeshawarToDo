@@ -18,7 +18,7 @@
 - **Shinwari** [Dinner][except tuesday, Wednesday & Friday][walking distance from tehkal to chief]
 - Jalil Kabab [Chapli Kehbab] [not possible on walk][walking distance from tehkal to chief]
 - Silver Dragon [Soup][walking distance from tehkal to chief]
-- Jon's Baker
+- Jan's Baker
 - Jan Deli [Pizza][University Town][not possible on walk]
 
 ### Tech
