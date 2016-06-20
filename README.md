@@ -111,6 +111,12 @@
 - Frontier Model School for Girls
 - Army Public School & College [Lit a candle & pray for victims]
 
+## Hayatabad
+
+### Food
+- Newyorker Pizza [Phase 2][Pizza]
+
+
 ## Word of Advice
 - Dont bow down to pick money from roadsides or anywhere.
 - Dont wear pent shirt
