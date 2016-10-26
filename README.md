@@ -42,7 +42,7 @@
 
 ### Food
 - **Shirax Ronaaq** [Buffet] [walking distance from deans plaza]
-![alt tag](https://github.com/Sprinkle7/PeshawarToDo/blob/master/1.jpg =300x)
+<img src="https://github.com/Sprinkle7/PeshawarToDo/blob/master/1.jpg" data-canonical-src="https://github.com/Sprinkle7/PeshawarToDo/blob/master/1.jpg" width="300" height="200" />
 - **Pehelawn Cholay** [Fuwara - Chowk 30Rs] [walking distance from darwesh to deans plaza]
 - Halwa Puri [ Fuwara Chowk - 15Rs/Puri] [walking distance from darwesh to deans plaza]
 - Besan Roti [Fuwara Chowk - 40Rs] [walking distance from darwesh to deans plaza]
