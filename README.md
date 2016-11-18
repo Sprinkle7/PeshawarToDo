@@ -20,13 +20,15 @@
 - Silver Dragon [Soup][walking distance from tehkal to chief]
 - Jan's Baker
 - Jan Deli [Pizza][University Town][not possible on walk]
+- Naan Sense
+- **Giga Bite**
 
 ### Tech
 - Spinzer IT Plaza [TP/Link Routers (official dealer)]
 - Gul Haji Plaza [Used and Refurb Laptops]
 - POP [opposite Gul Haji][Authorized dealers of HP, DELL & Apple Laptops]
 - The Nerd Camp [Place to Learn,Teach,Code and Enjoy][Office#412,Sheikh Yaseen Tower, Arbab Road Stop, University Road]
-- Sweet Pixel Studios [Indie Game Development Studios][Office F-5, JK Tower, Arbab Road Stop, University Road]
+- Sweet Pixel Studios [Indie Game Development Studios][Office F-3, JK Tower, Arbab Road Stop, University Road]
 
 ## Saddar (Cantt)
 ### Places
@@ -59,6 +61,7 @@
 - **Lahori** [Kulfa, Jalebi(just in ramadan), Samosa Chart, Samosay]
 - Gol Gappy [Imperial Shoes tower/100Rs, opposite Imambargah(sits after Maghrib- 150RS)]
 - Sub Rang [pan, cigarette, Lemon Soda] [walking distance from darwesh to deans plaza]
+- Food District [Burgers]
 - Soup [Fuwara Chowk - andy wala/50RS][walking distance from darwesh to deans plaza] :D
 
 ### Tech
@@ -118,15 +121,5 @@
 ### Food
 - Newyorker Pizza [Phase 2][Pizza]
 
-
-## Word of Advice
-- Dont bow down to pick money from roadsides or anywhere.
-- Dont wear pent shirt
-- Wear Burqa is must
-- No word like Vegeterian
-- Respect Naswar
-- Be aware of Pickpockets
-- They mostly dont understand business & are illiterate
-- **ha ha ha, Please raise your standard of thinking or visit us we will do it for you ;)**
 
 --------------------------------------------------------------------------------------------------
